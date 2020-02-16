@@ -1,0 +1,13 @@
+C:\Users\Guilherme Eddie\Desktop\projects\talita\TemHorarioCore\src\TemHorario.Repository\bin\Debug\netcoreapp3.1\TemHorario.Repository.deps.json
+C:\Users\Guilherme Eddie\Desktop\projects\talita\TemHorarioCore\src\TemHorario.Repository\bin\Debug\netcoreapp3.1\TemHorario.Repository.runtimeconfig.json
+C:\Users\Guilherme Eddie\Desktop\projects\talita\TemHorarioCore\src\TemHorario.Repository\bin\Debug\netcoreapp3.1\TemHorario.Repository.runtimeconfig.dev.json
+C:\Users\Guilherme Eddie\Desktop\projects\talita\TemHorarioCore\src\TemHorario.Repository\bin\Debug\netcoreapp3.1\TemHorario.Repository.dll
+C:\Users\Guilherme Eddie\Desktop\projects\talita\TemHorarioCore\src\TemHorario.Repository\bin\Debug\netcoreapp3.1\TemHorario.Repository.pdb
+C:\Users\Guilherme Eddie\Desktop\projects\talita\TemHorarioCore\src\TemHorario.Repository\bin\Debug\netcoreapp3.1\TemHorario.Core.dll
+C:\Users\Guilherme Eddie\Desktop\projects\talita\TemHorarioCore\src\TemHorario.Repository\bin\Debug\netcoreapp3.1\TemHorario.Core.pdb
+C:\Users\Guilherme Eddie\Desktop\projects\talita\TemHorarioCore\src\TemHorario.Repository\obj\Debug\netcoreapp3.1\TemHorario.Repository.csprojAssemblyReference.cache
+C:\Users\Guilherme Eddie\Desktop\projects\talita\TemHorarioCore\src\TemHorario.Repository\obj\Debug\netcoreapp3.1\TemHorario.Repository.AssemblyInfoInputs.cache
+C:\Users\Guilherme Eddie\Desktop\projects\talita\TemHorarioCore\src\TemHorario.Repository\obj\Debug\netcoreapp3.1\TemHorario.Repository.AssemblyInfo.cs
+C:\Users\Guilherme Eddie\Desktop\projects\talita\TemHorarioCore\src\TemHorario.Repository\obj\Debug\netcoreapp3.1\TemHorario.Repository.csproj.CopyComplete
+C:\Users\Guilherme Eddie\Desktop\projects\talita\TemHorarioCore\src\TemHorario.Repository\obj\Debug\netcoreapp3.1\TemHorario.Repository.dll
+C:\Users\Guilherme Eddie\Desktop\projects\talita\TemHorarioCore\src\TemHorario.Repository\obj\Debug\netcoreapp3.1\TemHorario.Repository.pdb

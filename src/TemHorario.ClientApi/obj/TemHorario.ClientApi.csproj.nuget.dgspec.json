@@ -1,0 +1,279 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Guilherme Eddie\\Desktop\\projects\\talita\\TemHorarioCore\\src\\TemHorario.ClientApi\\TemHorario.ClientApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Guilherme Eddie\\Desktop\\projects\\talita\\TemHorarioCore\\src\\TemHorario.ClientApi\\TemHorario.ClientApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Guilherme Eddie\\Desktop\\projects\\talita\\TemHorarioCore\\src\\TemHorario.ClientApi\\TemHorario.ClientApi.csproj",
+        "projectName": "TemHorario.ClientApi",
+        "projectPath": "C:\\Users\\Guilherme Eddie\\Desktop\\projects\\talita\\TemHorarioCore\\src\\TemHorario.ClientApi\\TemHorario.ClientApi.csproj",
+        "packagesPath": "C:\\Users\\Guilherme Eddie\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Guilherme Eddie\\Desktop\\projects\\talita\\TemHorarioCore\\src\\TemHorario.ClientApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Guilherme Eddie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Guilherme Eddie\\Desktop\\projects\\talita\\TemHorarioCore\\src\\TemHorario.SharedApi\\TemHorario.SharedApi.csproj": {
+                "projectPath": "C:\\Users\\Guilherme Eddie\\Desktop\\projects\\talita\\TemHorarioCore\\src\\TemHorario.SharedApi\\TemHorario.SharedApi.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Guilherme Eddie\\Desktop\\projects\\talita\\TemHorarioCore\\src\\TemHorario.Core\\TemHorario.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Guilherme Eddie\\Desktop\\projects\\talita\\TemHorarioCore\\src\\TemHorario.Core\\TemHorario.Core.csproj",
+        "projectName": "TemHorario.Core",
+        "projectPath": "C:\\Users\\Guilherme Eddie\\Desktop\\projects\\talita\\TemHorarioCore\\src\\TemHorario.Core\\TemHorario.Core.csproj",
+        "packagesPath": "C:\\Users\\Guilherme Eddie\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Guilherme Eddie\\Desktop\\projects\\talita\\TemHorarioCore\\src\\TemHorario.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Guilherme Eddie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Guilherme Eddie\\Desktop\\projects\\talita\\TemHorarioCore\\src\\TemHorario.Repository\\TemHorario.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Guilherme Eddie\\Desktop\\projects\\talita\\TemHorarioCore\\src\\TemHorario.Repository\\TemHorario.Repository.csproj",
+        "projectName": "TemHorario.Repository",
+        "projectPath": "C:\\Users\\Guilherme Eddie\\Desktop\\projects\\talita\\TemHorarioCore\\src\\TemHorario.Repository\\TemHorario.Repository.csproj",
+        "packagesPath": "C:\\Users\\Guilherme Eddie\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Guilherme Eddie\\Desktop\\projects\\talita\\TemHorarioCore\\src\\TemHorario.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Guilherme Eddie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Guilherme Eddie\\Desktop\\projects\\talita\\TemHorarioCore\\src\\TemHorario.Core\\TemHorario.Core.csproj": {
+                "projectPath": "C:\\Users\\Guilherme Eddie\\Desktop\\projects\\talita\\TemHorarioCore\\src\\TemHorario.Core\\TemHorario.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Guilherme Eddie\\Desktop\\projects\\talita\\TemHorarioCore\\src\\TemHorario.SharedApi\\TemHorario.SharedApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Guilherme Eddie\\Desktop\\projects\\talita\\TemHorarioCore\\src\\TemHorario.SharedApi\\TemHorario.SharedApi.csproj",
+        "projectName": "TemHorario.SharedApi",
+        "projectPath": "C:\\Users\\Guilherme Eddie\\Desktop\\projects\\talita\\TemHorarioCore\\src\\TemHorario.SharedApi\\TemHorario.SharedApi.csproj",
+        "packagesPath": "C:\\Users\\Guilherme Eddie\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Guilherme Eddie\\Desktop\\projects\\talita\\TemHorarioCore\\src\\TemHorario.SharedApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Guilherme Eddie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Guilherme Eddie\\Desktop\\projects\\talita\\TemHorarioCore\\src\\TemHorario.Core\\TemHorario.Core.csproj": {
+                "projectPath": "C:\\Users\\Guilherme Eddie\\Desktop\\projects\\talita\\TemHorarioCore\\src\\TemHorario.Core\\TemHorario.Core.csproj"
+              },
+              "C:\\Users\\Guilherme Eddie\\Desktop\\projects\\talita\\TemHorarioCore\\src\\TemHorario.Repository\\TemHorario.Repository.csproj": {
+                "projectPath": "C:\\Users\\Guilherme Eddie\\Desktop\\projects\\talita\\TemHorarioCore\\src\\TemHorario.Repository\\TemHorario.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
